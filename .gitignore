@@ -216,3 +216,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Project-specific
+.env
+node_modules/
+dashboard/build/
+outputs/*
+!outputs/architecture.png
+!outputs/throughput.png
